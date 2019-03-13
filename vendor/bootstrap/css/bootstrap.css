@@ -5345,7 +5345,6 @@ a.badge-dark:hover, a.badge-dark:focus {
   padding: 0.75rem 1.25rem;
   margin-bottom: -1px;
   background-color: #fff;
-  border: 1px solid rgba(0, 0, 0, 0.125);
 }
 
 .list-group-item:first-child {
@@ -6441,10 +6440,6 @@ button.bg-danger:focus {
   background-color: #bd2130 !important;
 }
 
-.bg-light {
-  background-color: #f8f9fa !important;
-}
-
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
@@ -6475,10 +6470,6 @@ button.bg-dark:focus {
 
 .border-top {
   border-top: 1px solid #dee2e6 !important;
-}
-
-.border-right {
-  border-right: 1px solid #dee2e6 !important;
 }
 
 .border-bottom {
